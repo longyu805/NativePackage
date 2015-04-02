@@ -12,4 +12,5 @@ func main() {
 //
 func lyNewInt() {
 	fmt.Println("a")
+	fmt.Println("lyNewInt")
 }
